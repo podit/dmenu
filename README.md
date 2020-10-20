@@ -1,5 +1,6 @@
 podit's dmenu 5.0 fork - https://git.suckless.org/dmenu
 - no changes made yet
+- don't forget to uninstall dmenu through ya package manager
 
 dmenu - dynamic menu
 ====================
